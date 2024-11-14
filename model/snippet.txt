@@ -1,6 +1,6 @@
-<model-viewer src="motogp_jerez_track.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate>
-    <button class="Hotspot" slot="hotspot-1" data-position="60.550943188537076m 61.09553817139046m -189.89369905250572m" data-normal="-0.08708626453139523m 1.3384837886821392e-7m 0.9962007742066606m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">起跑</div>
+<model-viewer src="tmpdjfukfap.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate>
+    <button class="Hotspot" slot="hotspot-2" data-position="0.4358004875431003m 0.023312981822050105m -0.025188573570022132m" data-normal="0.938318510139099m 0.3378034769572581m -0.07380504377025225m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">鏡面</div>
     </button>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
